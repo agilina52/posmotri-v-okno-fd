@@ -1,1 +1,1 @@
-Второй проект "Посмотри в окно"!
+https://github.com/agilina52/posmotri-v-okno-fd.git
